@@ -1,3 +1,4 @@
+version: STSv1
 mode: testing
 mx: ALT4.ASPMX.L.GOOGLE.COM
 mx: ALT3.ASPMX.L.GOOGLE.COM
